@@ -4,3 +4,9 @@ function confirmacaoExclusaoUser(id){
 		  window.location.href = "delete.php?id=" + id;
     }
 }
+function var(nem){
+	var nome = (idade,nome,);
+	if (nome == true) {
+		else (nome == false); 
+	}
+}
